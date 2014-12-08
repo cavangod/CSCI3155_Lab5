@@ -1,7 +1,7 @@
 import sbt._
 import Keys._
 
-object Lab1Build extends Build {
+object LabBuild extends Build {
   lazy val root = Project(id = "lab5",
                           base = file("."))
 
